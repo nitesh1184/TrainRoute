@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Geektrust {
 
 	public static void main(String[] args) {
 //        List<String> trainA = new ArrayList<>(Arrays.asList("ENGINE","SLM","BLR","KRN","HYB", "SLM", "NGG","ITP"));
