@@ -19,7 +19,7 @@ public class Geektrust {
 	List<String> train = new ArrayList<String>();
 	String[] trainA = null;
 	String[] trainB = null;
-	File file = new File("C:\\Users\\sinha\\Desktop\\train_geektrust\\src\\geektrust_train\\train");
+	File file = new File(args[0]);
 
 	// Note: Double backquote is to avoid compiler
 	// interpret words
